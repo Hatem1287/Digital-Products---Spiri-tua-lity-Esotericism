@@ -17,3 +17,4 @@
 <p><a href="post/zen-mastery-.md">Zen Mastery </a></p>
 <p><a href="post/life-is-good-online-course--member-area-and-video-courses.md">Life Is Good Online Course  Member Area And Video Courses</a></p>
 <p><a href="post/reducing-stress-with-meditation-and-mindfulness.md">Reducing Stress With Meditation And Mindfulness</a></p>
+<p><a href="post/first-ever-manifestation-boot-camp.md">First Ever Manifestation Boot Camp</a></p>
