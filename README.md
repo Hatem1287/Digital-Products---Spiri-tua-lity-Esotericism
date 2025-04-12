@@ -13,3 +13,4 @@
 <p><a href="post/promote-awaken-xt-now--supplements-health.md">Promote Awaken Xt Now  Supplements Health</a></p>
 <p><a href="post/wealth-activation-code-.md">Wealth Activation Code </a></p>
 <p><a href="post/glory-bestower-.md">Glory Bestower </a></p>
+<p><a href="post/sept-2024-lunar-rebirth-report-better-moon-reading-.md">Sept 2024 Lunar Rebirth Report Better Moon Reading </a></p>
