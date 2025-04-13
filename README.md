@@ -20,3 +20,4 @@
 <p><a href="post/first-ever-manifestation-boot-camp.md">First Ever Manifestation Boot Camp</a></p>
 <p><a href="post/online-hypnosis-training-with-certificate-.md">Online Hypnosis Training With Certificate </a></p>
 <p><a href="post/the-healed-soul-manifest-your-destiny-brand-new.md">The Healed Soul Manifest Your Destiny Brand New</a></p>
+<p><a href="post/referral-program-for-frequency-of-wealth-.md">Referral Program For Frequency Of Wealth </a></p>
