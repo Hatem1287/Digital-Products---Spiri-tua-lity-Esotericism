@@ -31,3 +31,4 @@
 <p><a href="post/divine-whisper.md">Divine Whisper</a></p>
 <p><a href="post/light-of-devotion-.md">Light Of Devotion </a></p>
 <p><a href="post/the-cash-code.md">The Cash Code</a></p>
+<p><a href="post/are-you-ready-to-heal-and-overcome-obstacles--member-area-and-video-courses.md">Are You Ready To Heal And Overcome Obstacles  Member Area And Video Courses</a></p>
