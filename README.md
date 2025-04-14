@@ -27,3 +27,4 @@
 <p><a href="post/journey-into-the-realm-of-the-deceased-.md">Journey Into The Realm Of The Deceased </a></p>
 <p><a href="post/stress-proof-your-life--hd-video-course--2-bonuses-.md">Stress Proof Your Life -hd Video Course  2 Bonuses </a></p>
 <p><a href="post/master-stress-and-anxiety-management-in-1-hour-video-course-.md">Master Stress And Anxiety Management In 1 Hour-video Course </a></p>
+<p><a href="post/the-8-minute-secret-2025-.md">The 8-minute Secret 2025 </a></p>
