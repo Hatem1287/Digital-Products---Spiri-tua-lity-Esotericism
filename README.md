@@ -26,3 +26,4 @@
 <p><a href="post/-21-days-meditation-journey-.md"> 21 Days Meditation Journey </a></p>
 <p><a href="post/journey-into-the-realm-of-the-deceased-.md">Journey Into The Realm Of The Deceased </a></p>
 <p><a href="post/stress-proof-your-life--hd-video-course--2-bonuses-.md">Stress Proof Your Life -hd Video Course  2 Bonuses </a></p>
+<p><a href="post/master-stress-and-anxiety-management-in-1-hour-video-course-.md">Master Stress And Anxiety Management In 1 Hour-video Course </a></p>
