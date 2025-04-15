@@ -35,3 +35,4 @@
 <p><a href="post/oneness-in-the-depth-of-your-heart-online-course-.md">Oneness In The Depth Of Your Heart Online Course </a></p>
 <p><a href="post/mantra-books.md">Mantra Books</a></p>
 <p><a href="post/yoga-foundations-a-beginners-guide.md">Yoga Foundations A Beginners Guide</a></p>
+<p><a href="post/meditation-guide.md">Meditation Guide</a></p>
