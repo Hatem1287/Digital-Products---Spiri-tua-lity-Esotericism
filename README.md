@@ -37,3 +37,4 @@
 <p><a href="post/yoga-foundations-a-beginners-guide.md">Yoga Foundations A Beginners Guide</a></p>
 <p><a href="post/meditation-guide.md">Meditation Guide</a></p>
 <p><a href="post/the-law-of-attraction-bible.md">The Law Of Attraction Bible</a></p>
+<p><a href="post/buddha-jesus-and-muhammad-a-comparative-study.md">Buddha Jesus And Muhammad A Comparative Study</a></p>
