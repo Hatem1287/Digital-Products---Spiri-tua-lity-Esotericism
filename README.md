@@ -36,3 +36,4 @@
 <p><a href="post/mantra-books.md">Mantra Books</a></p>
 <p><a href="post/yoga-foundations-a-beginners-guide.md">Yoga Foundations A Beginners Guide</a></p>
 <p><a href="post/meditation-guide.md">Meditation Guide</a></p>
+<p><a href="post/the-law-of-attraction-bible.md">The Law Of Attraction Bible</a></p>
