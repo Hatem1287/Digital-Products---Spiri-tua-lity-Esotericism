@@ -41,3 +41,4 @@
 <p><a href="post/a-course-in-feeling-good--member-area-and-video-courses.md">A Course In Feeling Good  Member Area And Video Courses</a></p>
 <p><a href="post/spiritual-revelations-for-an-enlightened-life.md">Spiritual Revelations For An Enlightened Life</a></p>
 <p><a href="post/awakening-of-the-soul-the-secret-path-of-elevated-spirits.md">Awakening Of The Soul The Secret Path Of Elevated Spirits</a></p>
+<p><a href="post/power-of-visualization.md">Power Of Visualization</a></p>
