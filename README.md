@@ -34,3 +34,4 @@
 <p><a href="post/are-you-ready-to-heal-and-overcome-obstacles--member-area-and-video-courses.md">Are You Ready To Heal And Overcome Obstacles  Member Area And Video Courses</a></p>
 <p><a href="post/oneness-in-the-depth-of-your-heart-online-course-.md">Oneness In The Depth Of Your Heart Online Course </a></p>
 <p><a href="post/mantra-books.md">Mantra Books</a></p>
+<p><a href="post/yoga-foundations-a-beginners-guide.md">Yoga Foundations A Beginners Guide</a></p>
