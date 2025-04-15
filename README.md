@@ -38,3 +38,4 @@
 <p><a href="post/meditation-guide.md">Meditation Guide</a></p>
 <p><a href="post/the-law-of-attraction-bible.md">The Law Of Attraction Bible</a></p>
 <p><a href="post/buddha-jesus-and-muhammad-a-comparative-study.md">Buddha Jesus And Muhammad A Comparative Study</a></p>
+<p><a href="post/a-course-in-feeling-good--member-area-and-video-courses.md">A Course In Feeling Good  Member Area And Video Courses</a></p>
