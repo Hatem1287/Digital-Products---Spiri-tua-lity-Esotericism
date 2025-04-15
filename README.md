@@ -40,3 +40,4 @@
 <p><a href="post/buddha-jesus-and-muhammad-a-comparative-study.md">Buddha Jesus And Muhammad A Comparative Study</a></p>
 <p><a href="post/a-course-in-feeling-good--member-area-and-video-courses.md">A Course In Feeling Good  Member Area And Video Courses</a></p>
 <p><a href="post/spiritual-revelations-for-an-enlightened-life.md">Spiritual Revelations For An Enlightened Life</a></p>
+<p><a href="post/awakening-of-the-soul-the-secret-path-of-elevated-spirits.md">Awakening Of The Soul The Secret Path Of Elevated Spirits</a></p>
