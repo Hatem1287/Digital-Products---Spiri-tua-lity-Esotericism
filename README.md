@@ -43,3 +43,4 @@
 <p><a href="post/awakening-of-the-soul-the-secret-path-of-elevated-spirits.md">Awakening Of The Soul The Secret Path Of Elevated Spirits</a></p>
 <p><a href="post/power-of-visualization.md">Power Of Visualization</a></p>
 <p><a href="post/30-day-manifestation--abundance-guide-.md">30 Day Manifestation  Abundance Guide </a></p>
+<p><a href="post/wave-of-calm-amazonite-bracelet--deliverable.md">Wave Of Calm Amazonite Bracelet  Deliverable</a></p>
