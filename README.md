@@ -42,3 +42,4 @@
 <p><a href="post/spiritual-revelations-for-an-enlightened-life.md">Spiritual Revelations For An Enlightened Life</a></p>
 <p><a href="post/awakening-of-the-soul-the-secret-path-of-elevated-spirits.md">Awakening Of The Soul The Secret Path Of Elevated Spirits</a></p>
 <p><a href="post/power-of-visualization.md">Power Of Visualization</a></p>
+<p><a href="post/30-day-manifestation--abundance-guide-.md">30 Day Manifestation  Abundance Guide </a></p>
