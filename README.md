@@ -45,3 +45,4 @@
 <p><a href="post/30-day-manifestation--abundance-guide-.md">30 Day Manifestation  Abundance Guide </a></p>
 <p><a href="post/wave-of-calm-amazonite-bracelet--deliverable.md">Wave Of Calm Amazonite Bracelet  Deliverable</a></p>
 <p><a href="post/lady-fortuna--member-area-and-video-courses.md">Lady Fortuna  Member Area And Video Courses</a></p>
+<p><a href="post/how-to-dream-intuitively-ebook.md">How To Dream Intuitively Ebook</a></p>
